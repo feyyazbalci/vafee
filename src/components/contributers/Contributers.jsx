@@ -11,11 +11,21 @@ const Contributers = () => {
         <div className="bottom">
           <div className="scope-one">
             <ul>
-              <li>Emre Deniz Kanbur ~ 201811038</li>
-              <li>Feyyaz Balcı ~ 201811010</li>
-              <li>Volkan Peker ~ 201811051</li>
-              <li>Esat Mustafa Namlı ~ 201911041</li>
-              <li>Ali Karatepe ~ 201811040</li>
+              <a href="https://github.com/XenonsCM">
+                <li>Volkan Peker ~ 201811051</li>
+              </a>
+              <a href="https://github.com/edK4137">
+                <li>Emre Deniz Kanbur ~ 201811038</li>
+              </a>
+              <a href="https://github.com/feyyazbalci">
+                <li>Feyyaz Balcı ~ 201811010</li>
+              </a>
+              <a href="https://github.com/estnml">
+                <li>Esat Mustafa Namlı ~ 201911041</li>
+              </a>
+              <a href="https://github.com/beginnerjo">
+                <li>Ali Karatepe ~ 201811040</li>
+              </a>
             </ul>
           </div>
         </div>

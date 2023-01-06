@@ -1,8 +1,8 @@
 .power {
   width: 100%;
   height: 100vh;
-  background: url('../../assets/surface-HJgaV1qjHS0-unsplash.jpg') no-repeat
-    center center/cover;
+  background: url('../../assets/vafee-ana-sayfa.jpg') no-repeat center
+    center/cover;
 }
 
 .power .container {
@@ -24,6 +24,7 @@
   width: 100%;
   max-width: 600px;
   margin-bottom: 4rem;
+  margin-top: 25px;
 }
 
 @media screen and (max-width: 540px) {

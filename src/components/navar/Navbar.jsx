@@ -105,7 +105,7 @@ const Navbar = () => {
                 smooth={true}
                 duration={500}
               >
-                Contact
+                References
               </Link>
             </a>
           </li>

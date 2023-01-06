@@ -18,13 +18,7 @@
   margin-top: 7rem;
   color: #f6f6f6;
 }
-.options .bottom {
-  display: flex;
-  justify-content: center;
-  width: 100%;
-  max-width: 600px;
-  margin-bottom: 4rem;
-}
+
 .options .bottom {
   position: relative;
   display: flex;
@@ -32,6 +26,7 @@
   width: 100%;
   max-width: 60%;
   color: white;
+  margin-top: 15px;
 }
 .scope-one {
   margin-bottom: 20rem;
